@@ -1,1 +1,2 @@
-This my pdevops practice file
+We are here for business...
+We will get Devops jobs soon. Amen!
