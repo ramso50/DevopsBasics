@@ -1,6 +1,6 @@
-<h1 WELCOME TO theITern.com and DevOps guru Class where we are doing this testing </h1>
-<h2> See you soon...</h2>
-<h2> Nigeria Decides 2023 ....we are making progress.</h2> 
-<h3> Wake africa.</h3>
+<h1 This is Devops </h1>
+<h2> Your dream job is around the corner</h2>
+<h3> Invest your money in Nigeria </h3> 
+<h4> Wake africa.</h4>
 
 
